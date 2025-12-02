@@ -1,7 +1,7 @@
 Indicator_type,Data,IP Address,Note
-Description,IOCs from Solarwinds attack,
+Description,IOCs from Solarwinds attack,file_path_name,
 
-file_path_name,C:\windows\syswow64\netsetupsvc.dll,NA,TEARDROP memory module used to drop Cobalt Strike Beacon.
+C:\windows\syswow64\netsetupsvc.dll,NA,TEARDROP memory module used to drop Cobalt Strike Beacon.
 domain,avsvmcloud.com,NA,malware/callhome
 domain,digitalcollege.org,NA,malware/callhome
 domain,freescanonline.com,NA,malware/repository
